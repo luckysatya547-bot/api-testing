@@ -1,0 +1,34 @@
+# 🔐 Virtual Environment
+venv/
+.env/
+.venv/
+
+# 🧠 Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 📦 Django stuff
+*.log
+db.sqlite3
+media/
+
+# 🔑 Secret files
+.env
+*.env
+
+# 🛠️ VS Code settings
+.vscode/
+
+# 🧪 Testing / coverage
+.coverage
+htmlcov/
+
+# 📁 OS files
+.DS_Store
+Thumbs.db
+
+# 🔄 Migrations (optional)
+# migrations/
+# !migrations/__init__.py
