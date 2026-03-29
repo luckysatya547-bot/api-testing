@@ -32,3 +32,40 @@ Thumbs.db
 # 🔄 Migrations (optional)
 # migrations/
 # !migrations/__init__.py
+
+
+
+# ⚛️ Node modules (frontend)
+node_modules/
+dist/
+build/
+# 🔐 Virtual Environment
+venv/
+.venv/
+env/
+
+# 🔑 Environment variables
+.env
+*.env
+
+# 🧠 Python cache
+__pycache__/
+*.py[cod]
+
+# 📦 Django
+db.sqlite3
+*.log
+media/
+staticfiles/
+
+# ⚛️ Frontend
+node_modules/
+dist/
+build/
+
+# 🛠️ VS Code
+.vscode/
+
+# 📁 OS
+.DS_Store
+Thumbs.db
